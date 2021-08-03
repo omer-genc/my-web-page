@@ -2,3 +2,8 @@ body{
     background-color: #a4a4a4;
     /* background-color: #fafafa; */
 }
+
+.container {
+    width: auto;
+    padding: 0;
+}
