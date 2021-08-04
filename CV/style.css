@@ -1,0 +1,8 @@
+.bilgiler a {
+    text-decoration:none !important;
+    color: black;
+}
+
+.foto img{
+    width: 250px;
+}
